@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Communication on Mouad</title>
+    <link>//localhost:1313/tags/communication/</link>
+    <description>Recent content in Communication on Mouad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stage de Découverte chez Orange : Rapport du Stagiaire</title>
+      <link>//localhost:1313/stage2024/stage/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stage2024/stage/</guid>
+      <description>Voici mon rapport du stage de 5 jours chez Orange, où j&amp;#39;ai exploré l&amp;#39;univers passionnant des télécommunications. J&amp;#39;ai découvert comment Orange nous aide à communiquer et utilisé Internet, rencontré des professionnels et réalisé un projet final. Ce fut une expérience incroyable !</description>
+    </item>
+    
+  </channel>
+</rss>

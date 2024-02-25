@@ -1,0 +1,75 @@
+#baseURL: "https://1shubham7.netlify.app"
+languageCode: en-us
+title: Mouad
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: stage 2024
+      name: Stage 2024
+      url: /stage2024
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 60
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Mouad"
+    subtitle: Hello  👋!bienvenue sur mon blog 
+    imageUrl: "home/me.jpg"
+    imageWidth: 250
+    imageHeight: 250
+    # buttons:
+    #   - name: Resume
+    #     url: ""
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MarkDown
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Golang on Mouad</title>
+    <link>//localhost:1313/tags/golang/</link>
+    <description>Recent content in Golang on Mouad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="//localhost:1313/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit testing using Golang - a beginner&#39;s guide</title>
+      <link>//localhost:1313/blog/testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/testing/</guid>
+      <description>A beginners guide to writing unit tests in Golang · Let&amp;#39;s first start with what unit testing is. Unit Testing is a way of testing where the behavior of a...</description>
+    </item>
+    
+    <item>
+      <title>Open-Source 101: The basic must-know terms for an open-source beginner</title>
+      <link>//localhost:1313/blog/open-source101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/open-source101/</guid>
+      <description>The terms you should know before beginning your open-source journey · Contributing to open-source projects as a beginner can be a little overwhelming. We...</description>
+    </item>
+    
+    <item>
+      <title>Code Buddy</title>
+      <link>//localhost:1313/projects/code-buddy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/code-buddy/</guid>
+      <description>a place for coders to find their buddies - find a coding partner for hackathons, events and just chilling out. find programmers near you, Sort by location, technology, and shared interests.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Informatique on Mouad</title>
+    <link>//localhost:1313/tags/informatique/</link>
+    <description>Recent content in Informatique on Mouad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/informatique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stage de Découverte : Explore le Monde de la Programmation</title>
+      <link>//localhost:1313/stage2024/buildspace/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stage2024/buildspace/</guid>
+      <description>Viens explorer le monde de la programmation lors de notre stage intensif de 5 jours conçu spécialement pour les jeunes passionnés d&amp;#39;informatique et de technologie !</description>
+    </item>
+    
+  </channel>
+</rss>
