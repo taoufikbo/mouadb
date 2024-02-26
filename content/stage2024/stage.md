@@ -6,7 +6,7 @@ tags: ["Stage", "Orange", "Enfants", "Communication"]
 dateString: Février 2024
 description: "Voici mon rapport du stage de 5 jours chez Orange, où j'ai exploré l'univers passionnant des télécommunications. J'ai découvert comment Orange nous aide à communiquer et utilisé Internet, rencontré des professionnels et réalisé un projet final. Ce fut une expérience incroyable !"
 cover:
-    image: "chemin/vers/image.jpg"
+    image: "home/Orange_logo.svg.png"
 ---
 
 # <span style="color:orange;">Rapport du Stagiaire : Stage de Découverte chez Orange</span>
